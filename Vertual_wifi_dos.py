@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 # Disclaimer: This script is for educational purposes only.  Do not use against any network that you don't own or have authorization to test
 
@@ -43,6 +42,7 @@ def check_for_essid(essid, lst):
 print("\n****************************************************************")
 print("\n* Copyright of Quinton Vertual, 2022                              ")                                 *")
 print("\n* https://www.youtube.com/V3rtualQ                          *")
+print("\n* @VertualQuinton on Facebook follow me.                     ")
 print("\n****************************************************************")
 
 
